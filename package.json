@@ -1,0 +1,19 @@
+{
+  "name": "fms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fms.js",
+  "dependencies": {
+    "nodemon":"1.9.1",
+    "fms":"0.0.32"
+    },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon -w fms.js fms.js"
+  },
+  "keywords": [
+    "fms"
+  ],
+  "author": "wj77998",
+  "license": "ISC"
+}
